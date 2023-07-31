@@ -177,6 +177,11 @@ nav ul li a:hover{
     padding: 25px;
 }
 
+.menu .container1 .cards .card:hover{
+    border: solid 2px #ff702a;
+    padding: 23px;
+}
+
 .menu .container1 .cards .card h4{
     color: #1e1d2b;
     text-align: center;
